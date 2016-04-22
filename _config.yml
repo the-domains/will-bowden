@@ -1,28 +1,18 @@
-name: WILL BOWDEN
-favicon: null
-layout_spectrum: 0.7133549971040338
-typography_spectrum: 0.8150164657272398
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.6902675563469529
-  lightness: 0.6452041412703693
-  saturation: 0.1934423758648336
-  rhythmicContrast: 0.8226254701148719
+    - '#0A0A12'
+    - '#7B585C'
+    - '#533B39'
+    - '#C7A9B3'
+    - '#953A41'
+  brandStrength: 0.51098
+  lightness: 0.505912
+  rhythmicContrast: 0.514358
+  saturation: 0.516047
+cta: {}
+layout_spectrum: 0.891047
+name: WILL BOWDEN
+opengraph: {}
 purpose: []
+typography_spectrum: 0.789696
